@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark Senkus.
+👋 Hi, I’m Mark Senkus.
   
 - 👀 I’m interested in honing my skills Software Development.
   I studied information systems at UMBC and I am continueing my education at UMGC with a Masters in Software Engineering.
